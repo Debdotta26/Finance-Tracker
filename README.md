@@ -62,7 +62,9 @@ Contributions are welcome!
    ```bash
    git checkout -b feature-name
 
-3. Commit your changes git commit -m "Add some feature"
+3. Commit your changes
+
+    git commit -m "Add some feature"
 
 
 4. Push to the branch
