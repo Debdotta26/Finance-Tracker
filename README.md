@@ -22,6 +22,12 @@ Example: Income vs Expenses
 
 ![Income vs Expenses](plot%20output.jpg)
 
+## 🖥️ Output Screenshot
+
+Example: Console output after viewing transactions
+
+![Console Output](output.jpg)
+
 
 ## *🛠 Installation*
 
