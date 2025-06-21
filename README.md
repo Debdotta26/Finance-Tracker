@@ -7,8 +7,12 @@ A simple and interactive *Personal Finance Tracker* built using *Python* and *Tk
 - 📥 Add income entries  
 - 📤 Add expense entries  
 - 📊 Real-time balance tracking  
-- 🧾 Summary view of all transactions  
+- 🧾 Summary view of all transactions within a data range  
 - 🖱 Easy-to-use GUI with Tkinter
+- Summary of total income, expenses, and savings
+- Optional visualization of trends using Matplotlib
+
+
 
 ## *🖼 Screenshot*
 
@@ -28,6 +32,28 @@ Finance-Tracker/ │
 ├── README.md          # Project documentation
 └── requirements.txt   # (Optional) Required Python libraries
 
+🛠️ Requirements
+Python 3.x
+Required libraries:
+pandas
+matplotlib
+Install dependencies with:
+
+pip install pandas matplotlib
+
+Follow the menu:
+
+Add a transaction
+View transactions in a date range
+Exit
+
+📝 Data Format (CSV)
+Each transaction is stored with the following fields:
+
+date – Format: dd-mm-yyyy
+amount – Positive float
+category – "Income" or "Expense"
+description – Optional
 
 ## *🔧 Technologies Used*
 
@@ -84,3 +110,6 @@ Please make sure your code follows the existing style and is well-documented.
 
 This project is licensed under the MIT License.
 Feel free to use it for personal or commercial purposes, but please give credit.
+🙌 Author
+Built with ❤️ by Debdotta
+Feel free to fork, use, or contribute to this project.
