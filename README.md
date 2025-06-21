@@ -59,21 +59,21 @@ This program allows you to manage and visualize transactions via a simple menu:
 
 ---
 
-Let me know if you'd like to include usage examples, screenshots, or a sample dataset to make your README even more helpful!
 
-📋 Features
-This program allows you to manage and visualize transactions via a simple menu:
-- Add a transaction
-- View transactions in a date range
+## 📝 Data Format (CSV)
+
+Transactions are stored in a CSV file with the following structure:
+
+| Field       | Description                          |
+|-------------|--------------------------------------|
+| `date`      | Date of transaction (`dd-mm-yyyy`)   |
+| `amount`    | Positive float (e.g., `250.75`)      |
+| `category`  | `"Income"` or `"Expense"`            |
+| `description` | Optional short description (text)  |
+
+---
 
 
-📝 Data Format (CSV)
-Each transaction is stored with the following fields:
-
-date – Format: dd-mm-yyyy
-amount – Positive float
-category – "Income" or "Expense"
-description – Optional
 
 ## *🔧 Technologies Used*
 
@@ -122,14 +122,19 @@ git push origin feature-name
 
 
 
-Please make sure your code follows the existing style and is well-documented.
 
+---
 
+## 📄 License
 
-📄 License
+This project is licensed under the **MIT License**.  
 
-This project is licensed under the MIT License.
-Feel free to use it for personal or commercial purposes, but please give credit.
-🙌 Author
-Built with ❤️ by Debdotta
-Feel free to fork, use, or contribute to this project.
+---
+
+## 🙌 Author
+
+Built with ❤️ by **Debdotta**  
+Feel free to **fork**, **use**, and **contribute** to this project!
+
+---
+
