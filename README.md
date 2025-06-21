@@ -22,11 +22,11 @@ A simple and interactive *Personal Finance Tracker* built using *Python* and *Tk
    cd Finance-Tracker
    ## *📂 Project Structure*
 
-Finance-Tracker/ │ ├── main.py           
-# Main application file (GUI + logic) ├── transactions.csv  
-# CSV file to store transaction data ├── README.md          
-# Project documentation └── requirements.txt   
-# (Optional) Required Python libraries
+Finance-Tracker/ │
+├── main.py   # Main application file (GUI + logic)
+├── transactions.csv  # CSV file to store transaction data 
+├── README.md          # Project documentation
+└── requirements.txt   # (Optional) Required Python libraries
 
 
 ## *🔧 Technologies Used*
