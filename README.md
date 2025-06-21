@@ -32,7 +32,9 @@ Finance-Tracker/ │
 ├── README.md          # Project documentation
 └── requirements.txt   # (Optional) Required Python libraries
 
+🛠️ RequirementsMatplotlib
 🛠️ Requirements
+
 Python 3.x
 Required libraries:
 pandas
