@@ -16,6 +16,11 @@ A simple and interactive *Personal Finance Tracker* built using *Python* and *Tk
 
 ## *🖼 Screenshot*
 
+## 📊 Plot Preview
+
+Example: Income vs Expenses
+
+![Income vs Expenses](plot%20output.jpg)
 
 
 ## *🛠 Installation*
