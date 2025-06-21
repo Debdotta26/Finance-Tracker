@@ -33,15 +33,33 @@ Finance-Tracker/ │
 └── requirements.txt   # (Optional) Required Python libraries
 
 
-🛠️ Requirements
-- Python 3.x
-- Required Libraries:
-- pandas
-- matplotlib
+
+## 🛠️ Requirements
+
+- **Python** 3.x  
+- **Required Libraries**:  
+  - `pandas`  
+  - `matplotlib`
+
 Install dependencies using:
+
+```bash
 pip install pandas matplotlib
+```
 
+---
 
+## 📋 Features
+
+This program allows you to manage and visualize transactions via a simple menu:
+
+1. **Add a transaction**  
+2. **View transactions in a date range**  
+3. **Exit**
+
+---
+
+Let me know if you'd like to include usage examples, screenshots, or a sample dataset to make your README even more helpful!
 
 📋 Features
 This program allows you to manage and visualize transactions via a simple menu:
